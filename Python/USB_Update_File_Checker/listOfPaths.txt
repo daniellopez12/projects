@@ -1,0 +1,11 @@
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_Australia\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_SA\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack2 DE-DE_EN-GB_PL-PL_RU-RU\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack4 DE-DE_EN-GB_FR-FR_SV-SE\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack5 EN-GB_ES-ES_FR-FR_PT-PT\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_Export\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack3 DE-DE_EN-GB_FR-FR_IT-IT\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack1 DE-DE_ EN-GB_RU-RU_TR-TR\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_China\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_EU-Lang pack6 DE-DE_EN-GB_FR-FR_NL-NL\autoinstall.lst
+C:\Users\dlopez42\Documents\CCPU Images\v3.6 - Zodiac\4.30.13171.0\Signed\ImageUpdate\12285 and Previous Images+Post-12285+Self-Extracting\13171_Signed_NA\autoinstall.lst
